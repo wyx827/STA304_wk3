@@ -2,8 +2,7 @@
 title: "My title"
 subtitle: "My subtitle if needed"
 author: 
-  - First author
-  - Another author
+  - Yuxuan Wei
 thanks: "Code and data are available at: LINK."
 date: today
 date-format: long
