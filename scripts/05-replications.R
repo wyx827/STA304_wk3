@@ -1,5 +1,5 @@
 #### Preamble ####
-# Purpose: Replicated graphs from... [...UPDATE THIS...]
+# Purpose: Replicated graphs
 # Author: Yuxuan Wei
 # Date: 19 Sep 2024 
 # Contact: shaw.wei@mail.itoronto.ca
